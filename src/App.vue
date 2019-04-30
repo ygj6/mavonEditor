@@ -46,7 +46,7 @@
 <script type="text/ecmascript-6">
   import {mavonEditor} from 'mavon-editor'
   import 'mavon-editor/dist/css/index.css'
-  //import {CONFIG} from './assets/config.js'
+
   import {CONFIG} from 'mavon-editor/src/lib/config.js'
   export default {
     name: 'app',
