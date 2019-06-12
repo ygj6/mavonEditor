@@ -9,7 +9,6 @@
       <option value="pt-BR">Português</option>
       <option value="ru">Русский</option>
     </select>
-
     <section class="page-header">
       <h1 class="project-name">mavonEditor</h1>
       <h3 class="project-tagline">{{d_words.sub_title}}</h3>
